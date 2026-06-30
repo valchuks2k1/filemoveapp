@@ -1,0 +1,1 @@
+This is a text file that hepls me to study Git & GitHub
